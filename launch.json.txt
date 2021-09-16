@@ -1,0 +1,5 @@
+arquivo = open("launch.json.txt")
+
+linhas = arquivo.readlines()
+for linhas in linhas:
+    print(linhas)
