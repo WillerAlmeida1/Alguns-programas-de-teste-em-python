@@ -9,5 +9,3 @@ for c in range(0, l):
     print(lista)
     time.sleep(1)
     lista.clear()
-
-print("só para mover para modified")
